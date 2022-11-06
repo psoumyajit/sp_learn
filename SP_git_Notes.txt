@@ -1,0 +1,9 @@
+1. Install git for windows
+2. Open power shell / terminal 
+3. Create a folder for git and move to the location
+
+Common commands :
+----------------------
+git --version
+
+git clone https://github.com/psoumyajit/sp_learn.git sp_learn
